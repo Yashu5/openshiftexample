@@ -13,7 +13,7 @@ public class MyJunitTest {
 
         String result = myUnit.concatenate("one", "two");
 
-        assertEquals("onetwothree", result);
+        assertEquals("onetwothreefour", result);
 
     }
 }
